@@ -188,4 +188,4 @@ This project is for research and educational purposes. The ICBHI dataset is subj
 ## 🙏 Acknowledgements
 
 - ICBHI 2017 Scientific Challenge organizers
-- Kaggle dataset contributors: [nimalanparameshwaran](https://www.kaggle.com/nimalanparameshwaran) and [santhoshsanka](https://www.kaggle.com/santhoshsanka)
+- Kaggle dataset contributor: [nimalanparameshwaran](https://www.kaggle.com/nimalanparameshwaran) 
